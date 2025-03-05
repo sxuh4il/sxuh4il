@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Souhail
-- 👀 I’m interested in data science, AI, and machine learning.
-- 🌱 I’m currently learning Python and deep learning techniques.
-- 💞️ I’m looking to collaborate on data science projects, especially in predictive analytics.
+- 👀 I’m interested in data science and AI.
+- 🌱 I’m currently learning Python machine learning and deep learning techniques.
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me LinkedIn: Souhail Bouri
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love solving puzzles, playing chess and am a big fan of sci-fi movies!
